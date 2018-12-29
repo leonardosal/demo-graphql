@@ -1,3 +1,2 @@
 # GraphQL Demo Application
-
-## Aplicação para demonstração do GraphQl
+ Aplicação para demonstração do GraphQl
